@@ -1,8 +1,8 @@
 http://89.136.209.26:1935/liveedge/TVR1.stream/chunklist_w655740030.m3u8
 http://89.136.209.26:1935/liveedge/TVR2.stream/chunklist_w655744030.m3u8
 http://89.136.209.26:1935/liveedge/TVR3.stream/chunklist_w600740030.m3u8
-
+http://127.0.0.1:6878/ace/m/8d64af6bdfe193c75d952db36631f52da4d88016/cd7d1c4669a750473843de04bf719a71.m3u8
 sop://185.122.59.8:3912/264961
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
-
 http://stream.adunity.com/b1/b1.m3u8
+
